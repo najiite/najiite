@@ -21,7 +21,7 @@ Hello there! 👋 I'm Najiite, a passionate Frontend Engineer with a strong affi
   I'm a proponent of Next.js, utilizing its server-side rendering and routing capabilities to create optimized and SEO-friendly React applications.
 
 - ### Backend Proficiency
-While my heart resides in the frontend, I'm not a stranger to the backend world. I'm adept at constructing dynamic and secure web applications using PHP and Laravel, where I can seamlessly integrate frontend and backend functionalities for a unified user experience.
+  While my heart resides in the frontend, I'm not a stranger to the backend world. I'm adept at constructing dynamic and secure web applications using PHP and Laravel, where I can seamlessly integrate frontend and backend functionalities for a unified user experience.
 
 ### Let's Collaborate
 I'm always excited to collaborate with teams that share a passion for delivering exceptional user experiences. Whether it's a greenfield project, refactoring an existing application, or brainstorming innovative solutions, I'm eager to contribute my skills and creativity.
